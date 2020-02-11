@@ -1,0 +1,10 @@
+--DQL SpMedGroup
+
+--LISTAR APENAS OS CONSULTAS AGENDADAS
+SELECT * FROM Consulta
+WHERE IdSituacao = 1
+
+--LISTAR TODOS AS CONSUTAS QUE UM DETERMINADO USUARIO MARCOU
+SELECT * FROM Paciente
+INNER JOIN Consulta ON Paciente.IdPaciente = Consulta.IdPaciente
+WHERE IdUsuario = 2
