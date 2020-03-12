@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.960
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Senai.Gufi.WebApi.Manha", "Senai.Gufi.WebApi.Manha\Senai.Gufi.WebApi.Manha.csproj", "{865BF4AC-7BE6-4D10-AC30-A62618D8DC05}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{865BF4AC-7BE6-4D10-AC30-A62618D8DC05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{865BF4AC-7BE6-4D10-AC30-A62618D8DC05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{865BF4AC-7BE6-4D10-AC30-A62618D8DC05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{865BF4AC-7BE6-4D10-AC30-A62618D8DC05}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6CEBB149-A14A-474C-9D1E-F8BA1288BCCC}
+	EndGlobalSection
+EndGlobal
